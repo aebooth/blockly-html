@@ -27,7 +27,7 @@ var htmlBlocks =
   "tooltip": "",
   "helpUrl": "http://www.w3schools.com/tags/tag_html.asp"
 },
-
+{
   "type": "html",
   "message0": "document %1 %2",
   "args0": [
