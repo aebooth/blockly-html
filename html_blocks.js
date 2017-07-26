@@ -1,6 +1,5 @@
 "use strict";
 
-
 var htmlBlocks =
 [{
   "type": "baseframe",
@@ -13,7 +12,7 @@ var htmlBlocks =
       "type": "input_dummy"
     },
     {
-      "type": "input_statement",
+     "type": "input_statement",
       "name": "head"
     },
     {
@@ -28,7 +27,7 @@ var htmlBlocks =
   "tooltip": "",
   "helpUrl": "http://www.w3schools.com/tags/tag_html.asp"
 },
-{
+
   "type": "html",
   "message0": "document %1 %2",
   "args0": [
