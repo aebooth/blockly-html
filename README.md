@@ -5,11 +5,10 @@ The demo can be tested here: http://htmlbausteine.zgtm.de/
 
 <img src="example.png" width="500" alt="Screenshot" />
 
+##Note about Blockly
+All necessary files from blockly (as in not blockly-html) are in the blockly folder of the repository. The folder is pushed as a blob because it is a git clone of the actual google blockly repository for easy update purposes.
+
 ## Try the demo
-
-The file `blockly_compressed`, required to run the demo, is not included in this repository, but can be obtained from 
-https://github.com/google/blockly/blob/master/blockly_compressed.js
-
 The demo saves the workspace in the local browser storage. Other export/import capabilities are missing, so far.
 
 ## Library files
